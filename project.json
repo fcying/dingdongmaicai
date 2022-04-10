@@ -1,0 +1,35 @@
+{
+  "assets": [],
+  "build": {
+    "build_number": 0,
+    "build_time": 0,
+    "release": true
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashText": "Powered by Auto.js Pro",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "dingdong",
+  "optimization": {
+    "removeAccessibilityService": false,
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "com.dingdong.com",
+  "permissionConfig": {
+    "requestListOnStartup": []
+  },
+  "scripts": {},
+  "signingConfig": {
+    "alias": "fcying",
+    "keystore": "/storage/emulated/0/脚本/.keystore/autojspro.jks",
+    "uuid": "098e24a6-7ac9-4182-9440-860920e51a8e"
+  },
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
